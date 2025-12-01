@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cyber_Magshimim\\Downloads\\DebugWorkshop\\DebugWorkshop\\",
+  "WorkspaceRootPath": "C:\\Users\\Cyber_Magshimim\\Desktop\\Magshimim\\year2\\advancedProgramming\\week6\\MyPointExactlyDanyM\\DebugWorkshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|C:\\Users\\Cyber_Magshimim\\Downloads\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|solutionrelative:MyPointExactly\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6ACE1B8F-ACBA-4ED1-BBFE-13D7CAC5108B}|ImagesAndWords\\Images.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\Magshimim\\year2\\advancedProgramming\\week6\\MyPointExactlyDanyM\\DebugWorkshop\\ImagesAndWords\\Images.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ACE1B8F-ACBA-4ED1-BBFE-13D7CAC5108B}|ImagesAndWords\\Images.vcxproj|solutionrelative:ImagesAndWords\\Images.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|C:\\Users\\Cyber_Magshimim\\Downloads\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2D4827A6-DC4C-43F0-AB07-33E5522DF1E4}|MyPointExactly\\MyPointExactly.vcxproj|solutionrelative:MyPointExactly\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8132F8A2-F8D1-48C8-ACAF-DFC05A90B1B3}|Password\\Password.vcxproj|C:\\Users\\Cyber_Magshimim\\Desktop\\Magshimim\\year2\\advancedProgramming\\week6\\MyPointExactlyDanyM\\DebugWorkshop\\Password\\Password.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8132F8A2-F8D1-48C8-ACAF-DFC05A90B1B3}|Password\\Password.vcxproj|solutionrelative:Password\\Password.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Point.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Downloads\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\Point.cpp",
-              "RelativeDocumentMoniker": "MyPointExactly\\Point.cpp",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Downloads\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\Point.cpp",
-              "RelativeToolTip": "MyPointExactly\\Point.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Images.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\Magshimim\\year2\\advancedProgramming\\week6\\MyPointExactlyDanyM\\DebugWorkshop\\ImagesAndWords\\Images.cpp",
+              "RelativeDocumentMoniker": "ImagesAndWords\\Images.cpp",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\Magshimim\\year2\\advancedProgramming\\week6\\MyPointExactlyDanyM\\DebugWorkshop\\ImagesAndWords\\Images.cpp",
+              "RelativeToolTip": "ImagesAndWords\\Images.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAhwF8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-01T15:41:33.137Z",
+              "WhenOpened": "2025-12-01T17:37:29.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Downloads\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\main.cpp",
-              "RelativeDocumentMoniker": "MyPointExactly\\main.cpp",
-              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Downloads\\DebugWorkshop\\DebugWorkshop\\MyPointExactly\\main.cpp",
-              "RelativeToolTip": "MyPointExactly\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Password.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_Magshimim\\Desktop\\Magshimim\\year2\\advancedProgramming\\week6\\MyPointExactlyDanyM\\DebugWorkshop\\Password\\Password.cpp",
+              "RelativeDocumentMoniker": "Password\\Password.cpp",
+              "ToolTip": "C:\\Users\\Cyber_Magshimim\\Desktop\\Magshimim\\year2\\advancedProgramming\\week6\\MyPointExactlyDanyM\\DebugWorkshop\\Password\\Password.cpp",
+              "RelativeToolTip": "Password\\Password.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-01T15:41:10.416Z",
+              "WhenOpened": "2025-12-01T17:36:03.612Z",
               "EditorCaption": ""
             }
           ]

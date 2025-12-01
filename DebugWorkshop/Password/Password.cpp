@@ -15,7 +15,7 @@ int main()
 	Password pwd;
 	std::cin >> pwd.value;
 
-	if (!strcmp(pwd.value, "********"))
+	if (!strcmp(pwd.value, "********"))		//if you enter ******** as password it will be correct, or if you enter exactly 16 characters it will be correct
 		pwd.incorrect = false;
 
 	if(!pwd.incorrect)

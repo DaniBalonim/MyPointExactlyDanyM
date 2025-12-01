@@ -4,8 +4,13 @@
 char* string_copy(char* dest, unsigned int destsize, char* src)
 {
 	char* ret = dest;
-	while (*dest++ = *src++)
-		;
+	/*while (*dest++ = *src++)
+		;*/
+	for (int i = 0; i < destsize  - 1; i++)
+	{
+		ret[i] = src[i];
+	}
+	ret[destsize - 1] = '\0';		//like in c the last one suppose to be '\0'
 	return ret;
 }
 
